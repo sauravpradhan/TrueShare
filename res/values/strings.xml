@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TrueShare V1.0</string>
+    <string name="hello_world">How to use the app?\n
+         \nProblem statement:
+        Wanting to share images from twitter directly to any other app(whatsapp,facebook,instagram).
+        Twitter only provides link. Through this app you can directly do that.
+        \n
+        \n
+        Steps:\n
+        1)Go to the TweetPic you want to share\n
+        2)Press Share button\n
+        3)In option choose TrueShare\n
+        4)TrueShare will open another Chooser \n
+        5)Now choose the intended application\n
+        5)Awesome,You are done.
+        
+        \n
+        This is just a Beta App.
+        \n</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
